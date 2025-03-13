@@ -8,3 +8,5 @@ Link do meu GitHub: [https://github.com/brenomedis](https://github.com/brenomedi
 
 Gostou do meu repositório? Mesmo???
 Que bom :D
+
+1.0.1
